@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Notes</router-link> |
-      <router-link to="/about">Random User</router-link> |
+      <router-link to="/randomUser">Random User</router-link> |
       <router-link to="/about">Pokemon App</router-link>
     </div>
     <router-view/>
