@@ -1,8 +1,9 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">Notes</router-link> |
+      <router-link to="/about">Random User</router-link> |
+      <router-link to="/about">Pokemon App</router-link>
     </div>
     <router-view/>
   </div>
